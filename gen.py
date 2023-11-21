@@ -1,7 +1,7 @@
 from sympy import *
 
-def main():
-	pass
+if __name__ != '__main__':
+	print('not main, exiting')
+	exit(0)
 
-if __name__ == '__main__':
-	main()
+
