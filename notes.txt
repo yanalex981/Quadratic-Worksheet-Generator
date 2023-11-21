@@ -1,5 +1,5 @@
 generate vertex form, expand to standard
-	y = a(x-h)^2 + k
+	y = a(x+h)^2 + k
 	a: ±10, ≠ 0
 	h: ±10, ≠ 0
 	k: ±10, ≠ 0
@@ -10,11 +10,6 @@ generate factored form, expand to standard
 	c: ±10, ≠ 0
 	r: ±10, ≠ 0
 	s: ±10, ≠ 0
-generate standard, complete the square to get vertex form
-	y = ax^2 + bx + c
-	a: ±10, ≠ 0
-	b: ±10, ≠ 0
-	c: ±10, ≠ 0
 generate standard, do
 	common factoring
 		y = (bx^n)(cx-s)
