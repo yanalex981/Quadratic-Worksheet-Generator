@@ -1,0 +1,9 @@
+generate vertex form, expand to standard
+generate factored form, expand to standard
+generate standard, complete the square to get vertex form
+generate standard, factor by
+	common factoring
+	difference of squares
+	perfect square
+	grouping
+	decomposition
