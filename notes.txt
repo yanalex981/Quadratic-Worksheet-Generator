@@ -1,9 +1,61 @@
 generate vertex form, expand to standard
+	y = a(x-h)^2 + k
+	a: ±10, ≠ 0
+	h: ±10, ≠ 0
+	k: ±10, ≠ 0
 generate factored form, expand to standard
+	y = a(bx-r)(cx-s)
+	a: ±10, ≠ 0
+	b: ±10, ≠ 0
+	c: ±10, ≠ 0
+	r: ±10, ≠ 0
+	s: ±10, ≠ 0
 generate standard, complete the square to get vertex form
-generate standard, factor by
+	y = ax^2 + bx + c
+	a: ±10, ≠ 0
+	b: ±10, ≠ 0
+	c: ±10, ≠ 0
+generate standard, do
 	common factoring
+		y = (bx^n)(cx-s)
+		b: ±10, ≠ 0
+		n: 0-3
+		c: ±10, ≠ 0
+		s: ±10, ≠ 0
 	difference of squares
-	perfect square
+		y = (ax)^2 - b^2
+		a: ±10, ≠ 0
+		b: ±10, ≠ 0
+	perfect square 1
+		y = (ax+r)^2
+		a: ±10, ≠ 0
+		r: ±10, ≠ 0
+	perfect square 2
+		y = a(kx+d)^2 + c
+		a: ±10, ≠ 0
+		k: ±10, ≠ 0
+		d: ±10, ≠ 0
+		c: ±10, ≠ 0
 	grouping
-	decomposition
+		y = (ax + r)(bx + s)
+		  = abx^2 + asx + brx + rs
+		a: ±10, ≠ 0
+		b: ±10, ≠ 0
+		r: ±10, ≠ 0
+		s: ±10, ≠ 0
+	decomposition 1
+		y = (ax + r)(x + s)
+		a: ±10, ≠ 0
+		r: ±10, ≠ 0
+		s: ±10, ≠ 0
+	decomposition 2
+		y = (ax + r)(bx + s)
+		a: ±10, ≠ 0
+		b: ±10, ≠ 0
+		r: ±10, ≠ 0
+		s: ±10, ≠ 0
+	quadratic formula
+		y = ax^2 + bx + c
+		a: ±10, ≠ 0, real numbers
+		b: ±10, ≠ 0, real numbers
+		c: ±10, ≠ 0, real numbers
